@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "ClimateTechInventor",
+    "name": "Climate Tech Inventor",
+    "title": "Climate Tech Inventor",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
@@ -23,11 +23,11 @@
         "autoRun": true
     },
     "appTheme": {
-        "logoUrl": "https://github.com/Microsoft/pxt-sample",
-        "homeUrl": "http://microsoft.github.io/pxt-sample/",
+        "logoUrl": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/1134255/385528_129387.png",
+        "homeUrl": "http://jtwirly.github.io/climate-tech-inventors/",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
-        "betaUrl": "https://makecode.com/",
+        "betaUrl": "https://ecoinnovatelabs.mystrikingly.com/",
         "docMenu": [
             {
                 "name": "About",
